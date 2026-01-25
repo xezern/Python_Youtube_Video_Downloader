@@ -13,6 +13,7 @@ DOWNLOAD_DIR = "downloads"
 # Maksimum keyfiyyət (1080, 720, 480, 360)
 MAX_RESOLUTION = 720
 
+# Video linklerini buraya siyahı şəkilində əlavə edin
 video_urls = [
     "https://www.youtube.com/watch?v=zD5Ee99Gy8I&start_radio=1"
     
