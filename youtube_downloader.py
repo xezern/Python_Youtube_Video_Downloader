@@ -12,17 +12,7 @@ from pytubefix.cli import on_progress
 DOWNLOAD_DIR = "downloads"
 
 video_urls = [
-    "https://www.youtube.com/watch?v=KBMtW8JEQRs&list=RDKBMtW8JEQRs&start_radio=1&pp=ygUTdGFsaWIgdGFsZSBpbGtiYWhhcqAHAQ%3D%3D",
-    "https://www.youtube.com/watch?v=BoMrp_oerDc&list=RDBoMrp_oerDc&start_radio=1&pp=ygUPbmlnYXIgbmV5bGVzZW4goAcB",
-    "https://www.youtube.com/watch?v=DKGuEU5SEdg&list=RDDKGuEU5SEdg&start_radio=1&pp=ygUWYWwgcWlybWl6aSB5YW5hcWxhcmluIKAHAQ%3D%3D",
-    "https://www.youtube.com/watch?v=-7ClRrEjPJQ&list=RD-7ClRrEjPJQ&start_radio=1&pp=ygUqYXh0YXLEsSBiYXJhbcSxc2FuICBiYcWfxLFtxLFuIGLJmWxhc8Sxc2FuoAcB",
-    "https://www.youtube.com/watch?v=1mp9C-4L8VI&list=RD1mp9C-4L8VI&start_radio=1&pp=ygUQbWVoaW4gYcSfYWxhcm92YaAHAQ%3D%3D",
-    "https://www.youtube.com/watch?v=TkJRmlOVwi8&list=RDTkJRmlOVwi8&start_radio=1&pp=ygUQbWVoaW4gYcSfYWxhcm92YaAHAQ%3D%3D",
-    "https://www.youtube.com/watch?v=V5JdeAXUj9Y&list=RDV5JdeAXUj9Y&start_radio=1&pp=ygUQbWVoaW4gYcSfYWxhcm92YaAHAQ%3D%3D",
-    "https://www.youtube.com/watch?v=NnXju1p36eA&list=RDNnXju1p36eA&start_radio=1&pp=ygUPaWxraW4gyZlobcmZZG92oAcB",
-    "https://www.youtube.com/watch?v=7zYTFD-yHQ0&list=RD7zYTFD-yHQ0&start_radio=1&pp=ygUPaWxraW4gyZlobcmZZG92oAcB",
-    "https://www.youtube.com/watch?v=9wO7dYSdfPI&list=RD9wO7dYSdfPI&start_radio=1&pp=ygUPaWxraW4gyZlobcmZZG92oAcB",
-    "https://www.youtube.com/watch?v=WdzCI0a_4Uw&list=RDWdzCI0a_4Uw&start_radio=1&pp=ygUPaWxraW4gyZlobcmZZG92oAcB"
+    "https://www.youtube.com/watch?v=ErfTdRDDqHg&list=RDErfTdRDDqHg&start_radio=1"
 ]
 
 
